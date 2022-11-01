@@ -12,4 +12,4 @@
 
 - @antwuandixon set the text to "orange". tx hash: `0x7b6696bab70ec704fe50d4e340ca756b033c45e1f2cba6fcbc228d0ae50261bd`
 
-- @antwuandixon transferred ownership to Serena Lui. tx hash: `0xd452064958c04713030c6d278db3d36cf8ba19f3fca2750b5f7b115f11c1ac28`
+- @antwuandixon transferred ownership to Serena Liu. tx hash: `0xd452064958c04713030c6d278db3d36cf8ba19f3fca2750b5f7b115f11c1ac28`
